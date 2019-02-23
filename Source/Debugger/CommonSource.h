@@ -60,7 +60,7 @@ static const char* common_rcss =
 "}\n"
 "h3\n"
 "{\n"
-"	margin-top: 1em;\n"
+"	margin-top: 1rem;\n"
 "	color: red;\n"
 "}\n"
 "h4\n"
